@@ -4,3 +4,6 @@
 [submodule "html-css/cv"]
 	path = html-css/cv
 	url = git@github.com:AyoubBenziza/cv.git
+[submodule "js/js_exercices"]
+	path = js/js_exercices
+	url = git@github.com:AyoubBenziza/js_exercices.git
