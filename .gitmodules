@@ -1,0 +1,6 @@
+[submodule "html-css/css-animations"]
+	path = html-css/css-animations
+	url = git@github.com:AyoubBenziza/css-animations.git
+[submodule "html-css/cv"]
+	path = html-css/cv
+	url = git@github.com:AyoubBenziza/cv.git
